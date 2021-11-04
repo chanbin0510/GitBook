@@ -1,14 +1,12 @@
 ---
 description: 포트폴리오 페이지
+coverY: 0
 ---
 
 # 신입개발자 주찬빈
 
+**#유쾌함 #성실함 #책임감**
 
-
-Last Updated. 2021/11/03
-
-* **#유쾌함 #성실함 #책임감**
 * 열심히 달려나가고 있는 신입 개발자입니다.
 * 긍정적인 에너지로 열심히 일하고 싶습니다.
 
@@ -20,7 +18,7 @@ Last Updated. 2021/11/03
 
 🙋‍♀️ - [**파란 볼드체**](broken-reference)는 링크로 연결됩니다.
 
-[**GitBook**](https://undefined-33.gitbook.io/undefined/)** **I** **[**GitHub**](https://github.com/chanbin0510/test)** **I [Notion](broken-reference)
+[**GitBook**](https://undefined-33.gitbook.io/undefined/)** **I** **[**GitHub**](https://github.com/chanbin0510/GitBook)** **I [Notion](https://hurricane-nut-9e6.notion.site/bb9315098a2f4e1cbeb0a720b98fc9b8)
 
 ***
 
@@ -37,6 +35,15 @@ Last Updated. 2021/11/03
 ### 🚀'개발자' 주찬빈을 소개합니다. <a href="01f1181e-9772-48b7-9a9a-a57d252ba08b" id="01f1181e-9772-48b7-9a9a-a57d252ba08b"></a>
 
 #### 저는 이런 기술들을 배웠습니다. <a href="507460fc-84d1-4743-843d-5050d001acf2" id="507460fc-84d1-4743-843d-5050d001acf2"></a>
+
+| 프로그래밍언어      | DBMS            | 마크업 언어 | 개발 툴                 | 라이브러리     |
+| ------------ | --------------- | ------ | -------------------- | --------- |
+| Java JDK 1.8 | ORACLE XE - 11G | CSS3   | Oracle SQL Developer | Ajax      |
+| JavaScript   |                 | HTML5  | STS 3.9.13           | JDBC      |
+|              |                 |        | VS code              | JQuery    |
+|              |                 |        |                      | Thymeleaf |
+
+![](../.gitbook/assets/image.png)
 
 #### 저는 프로젝트를 이렇게 진행했습니다. <a href="ae1ec75f-88ff-48a0-8752-3386c48efbd6" id="ae1ec75f-88ff-48a0-8752-3386c48efbd6"></a>
 
