@@ -43,7 +43,7 @@ coverY: 0
 |              |                 |        | VS code              | JQuery    |
 |              |                 |        |                      | Thymeleaf |
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png){: width="100" height="100"}
 
 #### 저는 프로젝트를 이렇게 진행했습니다. <a href="ae1ec75f-88ff-48a0-8752-3386c48efbd6" id="ae1ec75f-88ff-48a0-8752-3386c48efbd6"></a>
 
