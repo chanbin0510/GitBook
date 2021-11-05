@@ -5,7 +5,7 @@ coverY: 0
 
 # 신입개발자 주찬빈
 
-<img src=".gitbook/assets/이력서사진캡쳐본.png" width="300">
+![](.gitbook/assets/이력서사진캡쳐본.png)
 
 **#유쾌함 #성실함 #책임감**
 
@@ -15,6 +15,8 @@ coverY: 0
 📞 010-5019-4162
 
 💌 chanbin0510@gmail.com
+
+🏠 서울 송파구 송파동 백제고분로44길 13-28 한스빌 402
 
 🙋‍♀️ - [**파란 볼드체**](welcome/broken-reference/)는 링크로 연결됩니다.
 
@@ -56,7 +58,7 @@ coverY: 0
 | Name                                                                                                  | 기간               | 카테고리    |
 | ----------------------------------------------------------------------------------------------------- | ---------------- | ------- |
 | [🐹Project 'Farm3'](https://www.notion.so/Mini-Project-Farm3-9116e90132e84551baca299106de1ee5)        | 2021.06\~2021.07 | Project |
-| [🔩Project 'CodeFactory'](https://www.notion.so/Project-CodeFactory-cac4af9f34954ed281dac6128b2603c2) | 2021.07\~2021.10 | Project |
+| [🔩Project 'CodeFactory'](https://www.notion.so/Project-CodeFactory-cac4af9f34954ed281dac6128b2603c2) | 2021.09\~2021.10 | Project |
 | [🚀Project 'GrouBear'](https://www.notion.so/Project-GrouBear-058e583a74e547b0b483951cd50acba8)       | 2021.07\~2021.09 | Project |
 
 Copyright © Chanbin Ju. All rights reserved.
