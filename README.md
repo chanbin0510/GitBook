@@ -5,7 +5,7 @@ coverY: 0
 
 # 신입개발자 주찬빈
 
-![](.gitbook/assets/이력서사진캡쳐본.png)
+<img src=".gitbook/assets/이력서사진캡쳐본.png" width="300">
 
 **#유쾌함 #성실함 #책임감**
 
