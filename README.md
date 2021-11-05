@@ -36,14 +36,7 @@ coverY: 0
 
 #### 저는 이런 기술들을 배웠습니다. <a href="507460fc-84d1-4743-843d-5050d001acf2" id="507460fc-84d1-4743-843d-5050d001acf2"></a>
 
-| 프로그래밍언어      | DBMS            | 마크업 언어 | 개발 툴                 | 라이브러리     |
-| ------------ | --------------- | ------ | -------------------- | --------- |
-| Java JDK 1.8 | ORACLE XE - 11G | CSS3   | Oracle SQL Developer | Ajax      |
-| JavaScript   |                 | HTML5  | STS 3.9.13           | JDBC      |
-|              |                 |        | VS code              | JQuery    |
-|              |                 |        |                      | Thymeleaf |
-
-![](.gitbook/assets/image.png)
+<table><thead><tr><th data-type="select">분류</th><th>내용</th></tr></thead><tbody><tr><td></td><td>Windows 10 64bit</td></tr><tr><td></td><td>Java JDK 1.8, JavaScript</td></tr><tr><td></td><td>CSS3, HTML5</td></tr><tr><td></td><td>ORACLE XE - 11G</td></tr><tr><td></td><td>Oracle SQL Developer, STS 3.9.13,VS code</td></tr><tr><td></td><td>Ajax, JDBC, JQuery, Thymeleaf</td></tr><tr><td></td><td>GitLab, Source Tree</td></tr><tr><td></td><td>Java Platform, Standard Edition 8 API Specification</td></tr><tr><td></td><td>MyBatis, Spring Boot, Spring Framework</td></tr><tr><td></td><td>Figma</td></tr><tr><td></td><td>Notion</td></tr></tbody></table>
 
 ***
 
@@ -51,7 +44,7 @@ coverY: 0
 
 * 문제 해결에 재빠르고 관심이 있는 일은 무엇이든지 수행해내는 능력과 열성이 있습니다.
 * 직관력을 이용하여 어떤 사안에 대한 대략적인 이해가 매우 뛰어납니다.
-* 의사소통 능력과 대인관계 만족도가 타 유형에 비해 상당히 높습니다.
+* 의사소통 능력과 대인관계 만족도가 상당히 높습니다.
 
 <mark style="background-color:green;">**주찬빈 포트폴리오 모아보기**</mark>
 
